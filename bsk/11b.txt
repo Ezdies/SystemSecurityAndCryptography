@@ -1,0 +1,1 @@
+openssl rand 4 | base64 | openssl dgst -md5
