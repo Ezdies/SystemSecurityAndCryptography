@@ -1,0 +1,1 @@
+openssl enc -e -aes-256-cbc -K 5f30d9c373d5e5ae09dd51438770c10170344a268835a34a9be0915b4ec4a610 -iv 2287aedfa4ad488cf7e51242ad1ff123 -in plik1.txt -out plik4.enc

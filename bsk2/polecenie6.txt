@@ -1,0 +1,1 @@
+openssl enc -e -aes-256-cbc -k marek -pbkdf2 -in plik1.txt -out plik5.enc

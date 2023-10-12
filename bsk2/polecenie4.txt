@@ -1,0 +1,1 @@
+openssl enc -d -aes-256-ecb -K 5f30d9c373d5e5ae09dd51438770c10170344a268835a34a9be0915b4ec4a610 -in plik3.enc

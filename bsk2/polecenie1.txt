@@ -1,0 +1,1 @@
+openssl enc -e -aes-256-ecb -in plik1.txt -out plik1.enc
