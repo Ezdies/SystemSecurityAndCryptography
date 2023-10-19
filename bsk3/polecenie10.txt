@@ -1,0 +1,1 @@
+openssl pkeyutl -inkey public_key.pem -verify -pubin -in plik.txt -sigfile plik.sign

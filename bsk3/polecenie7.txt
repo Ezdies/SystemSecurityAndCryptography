@@ -1,0 +1,1 @@
+openssl pkeyutl -inkey public_key.pem -encrypt -pubin -in plik.txt

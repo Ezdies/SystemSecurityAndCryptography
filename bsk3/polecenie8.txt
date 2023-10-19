@@ -1,0 +1,1 @@
+openssl pkeyutl -inkey private_key.pem -decrypt -in plik2.enc

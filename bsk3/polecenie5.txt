@@ -1,0 +1,1 @@
+openssl pkeyutl -inkey private_key.pem -encrypt -in plik.txt > plik.enc

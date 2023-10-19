@@ -1,0 +1,1 @@
+openssl pkey -in public_key.pen -pubin -text
