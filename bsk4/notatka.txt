@@ -1,0 +1,1 @@
+Szyfrujemy publicznym osoby do której chcemy wysłać, a potem prywatnym tej osoby odczytujemy

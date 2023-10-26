@@ -1,0 +1,1 @@
+openssl pkey -in ec_key.pen -pubout
